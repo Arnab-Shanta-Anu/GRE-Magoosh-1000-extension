@@ -1,0 +1,12 @@
+{
+  "name": "gree 1000 random word and meaning",
+  "description": "a random word and meaning from magoosh 1000 on a new tab",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
